@@ -1,0 +1,26 @@
+{
+  "name": "modularExercise",
+  "version": "1.0.0",
+  "description": "Modular Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Module",
+    "CommonJS",
+    "class",
+    "student"
+  ],
+  "author": "Tsung Han (Jake)",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-jscs": "^0.8.1"
+  },
+  "dependencies": {
+    "express": "^4.10.1"
+  }
+}
